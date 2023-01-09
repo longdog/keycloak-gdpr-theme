@@ -1,5 +1,5 @@
 # Keycloak GDPR theme
-Extension for base keycloak theme with kookies accept.
+Extension for base keycloak theme with cookies accept.
 
 ![](login.png)
 
